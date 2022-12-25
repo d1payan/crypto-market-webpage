@@ -11,4 +11,4 @@ This is the Project 1 of Full Stack JavaScript Bootcamp 2.0 by iNeuron.
 
 ### Output:
 
-![seo-master-output](crypto-market-webpage)
+![crypto-market-output](crypto-market-output.png)
